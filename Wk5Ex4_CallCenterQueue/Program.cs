@@ -209,6 +209,10 @@ namespace Wk5Ex4_CallCenterQueue
 
             // output the options to the user with their number
 
+            // display program title
+            Console.WriteLine("Welcome to the Call Center Application\n");
+
+
 
             // Output to tell the user they can type 1 to add a customer
             Console.WriteLine("1. Add Customer\n");
